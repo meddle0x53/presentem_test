@@ -4,6 +4,61 @@ style: |
   .small-text {
     font-size: 0.75rem;
   }
+  code.language-elixir {
+    background: #000;
+    color: #f8f8f8;
+  }
+  span.hljs-comment,
+  span.hljs-quote,
+  span.hljs-meta {
+    color: #7c7c7c;
+  }
+  .hljs-keyword,
+  .hljs-selector-tag,
+  .hljs-tag,
+  .hljs-name {
+    color: #f96a6a;
+  }
+  .hljs-attribute,
+  .hljs-selector-id {
+    color: #ffffb6;
+  }
+  .hljs-string,
+  .hljs-selector-attr,
+  .hljs-selector-pseudo,
+  .hljs-addition {
+    color: #a8ff60;
+  }
+  .hljs-subst {
+    color: #daefa3;
+  }
+  .hljs-regexp,
+  .hljs-link {
+    color: #e9c062;
+  }
+  .hljs-title,
+  .hljs-section,
+  .hljs-type,
+  .hljs-doctag {
+    color: #f0f05b;
+  }
+  .hljs-symbol,
+  .hljs-bullet,
+  .hljs-variable,
+  .hljs-template-variable,
+  .hljs-literal {
+    color: #ffc57a;
+  }
+  .hljs-number,
+  .hljs-deletion {
+    color:#ff73fd;
+  }
+  .hljs-emphasis {
+    font-style: italic;
+  }
+  .hljs-strong {
+    font-weight: bold;
+  }
   li {
     font-size: 32px;
   }
