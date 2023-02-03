@@ -5,6 +5,6 @@ Hey
 YO
 
 ---
-GO |
-TO |
-HELL |
+ GO
+ TO
+ HELL
