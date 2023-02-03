@@ -318,8 +318,8 @@ Parallel map(collection):
 defmodule PEnum do
   def pmap(collection, mapper) do
     collection
-   > Enum.map(&(Task.async(fn -> mapper.(&1) end)))
-   > Enum.map(&Task.await/1)
+    |> Enum.map(&(Task.async(fn -> mapper.(&1) end)))
+    |> Enum.map(&Task.await/1)
   end
 end
 ```
