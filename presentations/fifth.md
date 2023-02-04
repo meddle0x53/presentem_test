@@ -20,3 +20,7 @@ theme: uncover
 
 ---
 ### Code
+
+```elixir
+a = 3
+```
