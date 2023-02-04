@@ -63,7 +63,7 @@ style: |
     font-size: 32px;
   }
 paginate: true
-footer: 'Курс по Elixir, ФМИ'
+footer: 'Курс по Elixir 2023, ФМИ'
 backgroundImage: "linear-gradient(to bottom, #E0EAFC, #CFDEF3)"
 marp: true
 
