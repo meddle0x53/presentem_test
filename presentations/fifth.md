@@ -23,4 +23,5 @@ theme: uncover
 
 ```elixir
 a = 3
+b = 4
 ```
