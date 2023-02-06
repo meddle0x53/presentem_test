@@ -101,11 +101,10 @@ ___
 
 ---
 
-"You get simplicity by finding a slightly more sophisticated building block to build your theories out of."{.quote}
-                                                                    (Alan Kay, "Power of Simplicity", 2015)
+<q>"You get simplicity by finding a slightly more sophisticated building block to build your theories out of."</q>
+                                                                    (Alan Kay, "Power of Simplicity", 2015) {.quote_from}
 
-"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it.
-And to make matters worse: complexity sells better."
+"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."
                                             (Edsger W. Dijkstra, "On the nature of Computer Science", 1984)
 
 ---
@@ -152,3 +151,8 @@ And to make matters worse: complexity sells better."
 ### Actor модела
 
 ![Image-Absolute](assets/actor_model.png)
+
+---
+### Actor модела
+
+![Image-Absolute](assets/actor_model_working.png)
