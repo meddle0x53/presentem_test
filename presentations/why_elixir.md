@@ -187,5 +187,4 @@ ___
 * Вътрешността на процесите не следва Actor модела.
 
 ---
-
 ![Image-Absolute](assets/kotlin_vs_elixir.png)
