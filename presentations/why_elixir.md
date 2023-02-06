@@ -101,8 +101,8 @@ ___
 
 ---
 
-<q>"You get simplicity by finding a slightly more sophisticated building block to build your theories out of."</q>
-                                                                    (Alan Kay, "Power of Simplicity", 2015) {.quote_from}
+<p class="quote">"You get simplicity by finding a slightly more sophisticated building block to build your theories out of."</p>
+                                                                    (Alan Kay, "Power of Simplicity", 2015)
 
 "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."
                                             (Edsger W. Dijkstra, "On the nature of Computer Science", 1984)
@@ -156,3 +156,24 @@ ___
 ### Actor модела
 
 ![Image-Absolute](assets/actor_model_working.png)
+
+---
+### Слоевете на Elixir
+
+* Можем да разгледаме Elixir като език/технология от 4 слоя:
+  * Функционален - Простият език, който върви вътре в процесите;
+  * Конкурентен - Процесите, които вървят и си пращат собщения на една инстанция на BEAM (node);
+  * Структуриран - Изграден от "поведения" и добри практики, идващи с езика, които спомагат да пишем стабилни, 99.999% online и fault-толерантни програми;
+  * Дистрибутиран - Системата върви на множество node-ове и процесите в тях могат да си комуникират;
+
+---
+### Elixir не е имплемантация на Actor модела!
+
+* Създателите на Erlang не са били запознати с Actor модела.
+* Създателите на Actor модела и създателите на Erlang са били повлияни от едни и същи идеи.
+* Процесите се държат в голяма степен като Actor-и.
+* Вътрешността на процесите не следва Actor модела.
+
+---
+
+![Image-Absolute](assets/kotlin_vs_elixir.png)
