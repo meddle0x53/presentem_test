@@ -101,7 +101,7 @@ ___
 
 ---
 
-"You get simplicity by finding a slightly more sophisticated building block to build your theories out of."
+"You get simplicity by finding a slightly more sophisticated building block to build your theories out of."{.quote}
                                                                     (Alan Kay, "Power of Simplicity", 2015)
 
 "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it.
@@ -128,3 +128,27 @@ And to make matters worse: complexity sells better."
 ### Функционално програмиране
 
 ![Image-Absolute](assets/functional_vs_what.png)
+
+---
+### Actor модела
+
+* Математически модел за [конкурентни изчисления](https://en.wikipedia.org/wiki/Concurrent_computing), повлиян от физиката
+* Появил се е с идеята да подпомага системи с висока конкурентност
+* Не е имплементиран от език извън академични проекти на 100%
+* [Swift Concurrency Manifest](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782#introduction)
+
+---
+### Actor модела
+
+* Всичко е Actor (подобмо на "всичко е обект").
+* Един Actor може:
+  * Да изпраща краен брой съобщения до други Actor-и.
+  * Да създава краен брой нови Actor-и.
+  * Да прави локални решения.
+  * Да дефинира поведение, което ще се изпълни, кога се получи ново съобщение.
+* Съобщенията се пращат асинхронно.
+
+---
+### Actor модела
+
+![Image-Absolute](assets/actor_model.png)
