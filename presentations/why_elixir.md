@@ -98,3 +98,33 @@ ___
 ---
 
 ![Image-Absolute](assets/joes_thesis.png)
+
+---
+
+"You get simplicity by finding a slightly more sophisticated building block to build your theories out of."
+                                                                    (Alan Kay, "Power of Simplicity", 2015)
+
+"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it.
+And to make matters worse: complexity sells better."
+                                            (Edsger W. Dijkstra, "On the nature of Computer Science", 1984)
+
+---
+### Функционално програмиране
+
+![Image-Absolute](assets/functional.jpeg)
+
+---
+### Функционално програмиране
+
+* Непроменими (immutable) данни.
+* "Pure(er)" функции.
+* Програмиране с трансформации вместо с мутации.
+* Рекурсия вместо цикли.
+* Кода е съставен и организиран от функции.
+* Операторът "=" е опеаратор за съпоставяне (match operator), не е оператор за присвояване на стойност (Elixir).
+* Прави кодът декларативен, което за някои хора значи - по-прост за четене и разбиране
+
+---
+### Функционално програмиране
+
+![Image-Absolute](assets/functional_vs_what.png)
