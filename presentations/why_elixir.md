@@ -94,3 +94,7 @@ ___
 ### Elixir е Erlang!
 
 ![Image-Absolute](assets/elixir_using_erlang.png)
+
+---
+
+![Image-Absolute](assets/joes_thesis.png)
