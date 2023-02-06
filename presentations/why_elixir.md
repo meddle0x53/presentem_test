@@ -17,7 +17,7 @@ style: |
   cite {
     text-align: right;
     font-size: 28px;
-    margin-top: 10px;
+    margin-top: 12px;
     margin-bottom: 128px;
   }
 paginate: true
