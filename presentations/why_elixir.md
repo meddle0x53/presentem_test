@@ -7,6 +7,19 @@ style: |
   li {
     font-size: 30px;
   }
+  p.quote {
+    line-height: 38px;
+  }
+  q {
+    font-size: 32px;
+    letter-spacing: 1px;
+  }
+  cite {
+    text-align: right;
+    font-size: 28px;
+    margin-top: 12px;
+    margin-bottom: 128px;
+  }
 paginate: true
 footer: 'Курс по Elixir 2023, ФМИ'
 backgroundImage: "linear-gradient(to bottom, #E0EAFC, #CFDEF3)"
@@ -101,11 +114,10 @@ ___
 
 ---
 
-<p class="quote">"You get simplicity by finding a slightly more sophisticated building block to build your theories out of."</p>
-                                                                    (Alan Kay, "Power of Simplicity", 2015)
-
-"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."
-                                            (Edsger W. Dijkstra, "On the nature of Computer Science", 1984)
+<p class="quote"><q>You get simplicity by finding a slightly more sophisticated building block to build your theories out of.</q></p>
+                                                                    <cite>Alan Kay, "Power of Simplicity", 2015</cite>
+<p class="quote"><q>Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.</q></p>
+                                            <cite>Edsger W. Dijkstra, "On the nature of Computer Science", 1984</cite>
 
 ---
 ### Функционално програмиране
