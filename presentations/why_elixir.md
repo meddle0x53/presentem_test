@@ -214,3 +214,10 @@ ___
 ### Конкурентност в стила на BEAM
 
 ![Image-Absolute](assets/beam_style.png)
+
+---
+### Amdahl’s Law
+
+<q>Parallel programs only go as fast as their slowest sequential part</q>
+
+![Image-Absolute](assets/amdahl.png)
