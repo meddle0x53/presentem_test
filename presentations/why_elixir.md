@@ -221,3 +221,23 @@ ___
 <q>Parallel programs only go as fast as their slowest sequential part</q>
 
 ![Image-Absolute](assets/amdahl.png)
+
+---
+### Preemptive Scheduling
+
+<q>To seize upon to the exclusion of others; take for oneself"</q>
+                                      <cite>Merriam-Webster</cite>
+
+---
+### Превантивно планиране
+
+* Начин за "честно" задаване на на време за изпълнение на процесит.
+* Прекъсваме процес и го поставяме в края на опашката от процеси.
+* Подобно на Scheduler-а на ОС - 1 CPU ядро "едновременно" изпълнява браузър, редактор, аудио, микрофон, дискорд, календар.
+* Един процес не може да монополизира процесора.
+* Neil Armstrong и Buzz Aldrin са живи благодарение на тази идея!
+
+---
+### Let It Crush
+
+![Image-Absolute](assets/let_it_crash.png)
