@@ -304,4 +304,10 @@ ___
 ### Observability
 
 [Link към Youtube](https://www.youtube.com/watch?v=pO4_Wlq8JeI)
-![Image-Absolute](assets/sasha.png)
+<а href="https://www.youtube.com/watch?v=pO4_Wlq8JeI">
+  ![Image-Absolute](assets/sasha.png)
+</a>
+
+---
+
+![Image-Absolute](assets/community.png)
