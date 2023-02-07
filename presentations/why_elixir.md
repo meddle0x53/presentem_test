@@ -304,10 +304,13 @@ ___
 ### Observability
 
 [Link към Youtube](https://www.youtube.com/watch?v=pO4_Wlq8JeI)
-<а href="https://www.youtube.com/watch?v=pO4_Wlq8JeI">
-  ![Image-Absolute](assets/sasha.png)
-</a>
+[![Image-Absolute](assets/sasha.png)](markdown link with clickable image)
 
 ---
 
 ![Image-Absolute](assets/community.png)
+
+---
+### Настоящето и бъдещето
+
+![Image-Absolute](assets/present_and_future.png)
