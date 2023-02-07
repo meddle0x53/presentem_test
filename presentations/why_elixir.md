@@ -259,3 +259,49 @@ ___
 ### Let It Crush
 
 ![Image-Absolute](assets/types_of_supervision.png)
+
+---
+### Метапрограмиране
+
+<q>Rule 1: Don't write macros</q>
+           <cite>Chris McCord, Metaprogramming in Elixir</cite>
+
+---
+### Метапрограмиране
+
+* Програми, които манипулират програми.
+* Приемаме код за аргументи и връщаме код като резултат.
+* Това спомага да разширим езика спрямо нашите си нужди.
+* Функция : Данни -> Данни
+* Макро : Код -> Код
+
+---
+### Метапрограмиране
+
+![Image-Absolute](assets/macro_def.png)
+
+---
+### Метапрограмиране
+
+![Image-Absolute](assets/macro_example.png)
+
+---
+### Метапрограмиране
+
+![Image-Absolute](assets/macros_in_testing.png)
+
+---
+### Метапрограмиране
+
+![Image-Absolute](assets/more_macros_in_testing.png)
+
+---
+### Метапрограмиране
+
+![Image-Absolute](assets/defs_as_macros.png)
+
+---
+### Observability
+
+[Link към Youtube](https://www.youtube.com/watch?v=pO4_Wlq8JeI)
+![Image-Absolute](assets/sasha.png)
