@@ -241,3 +241,21 @@ ___
 ### Let It Crush
 
 ![Image-Absolute](assets/let_it_crash.png)
+
+---
+### Let It Crush
+
+* Heisenbug vs Bohrbug
+* "Have You Tried Turning It Off And On Again?"
+* Идеята не е да имаме неконтролируемо поведение навсякъде, идеята е да трансформираме грешки, изключения, проблеми в инструменти, които можем да ползваме.
+* Методът "Fight fire with fire" в агрокултурата
+
+---
+### Let It Crush
+
+![Image-Absolute](assets/supervision_of_let_it_crash.png)
+
+---
+### Let It Crush
+
+![Image-Absolute](assets/types_of_supervision.png)
