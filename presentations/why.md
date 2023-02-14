@@ -553,12 +553,6 @@ There will be no foolish wand waving or silly incantations in this class. As suc
   * Бонус точки за неща, които ние преценим.
 
 ---
-## Скала за оценяване
-Оценнка|2|3|4|5|6|
--|-|-|-|-|-
-Точки|0-59|60-69|70-89|90-109|110-...
-
----
 ## Ресурси
 * Имаме сайт http://elixir-lang.bg
 * Имаме Facebook група https://www.facebook.com/groups/636900123169076/
